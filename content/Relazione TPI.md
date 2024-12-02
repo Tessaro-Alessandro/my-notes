@@ -4,7 +4,7 @@ title: Relazione TPI
 RIASSUNTO APPUNTI TPI
 
   
-
+ver
 Il sistema operativo
 
   
