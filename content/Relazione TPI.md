@@ -3,7 +3,6 @@ title: Relazione TPI
 ---
 RIASSUNTO APPUNTI TPI
 
-
 Il sistema operativo
 
   
