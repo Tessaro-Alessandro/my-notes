@@ -1,8 +1,8 @@
 [[Argomenti TPI]]
 
-Gestore del processore
+[[Processo]]
 
-  
+Gestore del processore
 
 I SO moderni sfruttano le potenzialità di parallelismo dell’hardware per minimizzare i tempi di risposta del sistema ed aumentare il throughput del sistema (numero di programmi eseguiti per unità di tempo).
 

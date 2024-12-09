@@ -1,5 +1,7 @@
 [[Argomenti TPI]]
 
+[[Processo]]
+
 Ciclo di vita di un processo 
 
 Mancano gli stati new ready running….
