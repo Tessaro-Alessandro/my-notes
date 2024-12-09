@@ -1,6 +1,7 @@
 ---
 title: Relazione TPI
 ---
+[[content/index|index]]
 RIASSUNTO APPUNTI TPI
 
 Il sistema operativo
