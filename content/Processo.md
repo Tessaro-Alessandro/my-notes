@@ -1,5 +1,11 @@
 [[Argomenti TPI]]
 
+[[Descrittore di Processo]]
+
+[[Ciclo vita di un Processo]]
+
+[[Gestore del Processore]]
+
 Processi
 
 Un intero sistema o un insieme di processi che possono essere eseguiti in parallelo sui processori alternando nell’esecuzione.
