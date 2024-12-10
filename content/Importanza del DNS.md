@@ -1,0 +1,4 @@
+[[DNS]]
+
+Il DNS è spesso descritto come l'"elenco telefonico" di Internet. Senza di esso, gli utenti dovrebbero ricordare gli indirizzi IP per accedere ai siti web, rendendo l'esperienza online molto meno user-friendly. Inoltre, il DNS supporta anche funzionalità avanzate come il **Dynamic DNS (DDNS)**, che consente l'aggiornamento automatico dei record DNS quando gli indirizzi IP cambiano frequentemente.
+In sintesi, il DNS svolge un ruolo cruciale nell'accessibilità e nell'usabilità di Internet, fungendo da intermediario tra nomi comprensibili e indirizzi IP necessari per la comunicazione tra dispositivi.
